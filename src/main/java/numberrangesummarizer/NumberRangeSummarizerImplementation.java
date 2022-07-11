@@ -7,7 +7,7 @@ import java.util.regex.Pattern;
 /**
  * @author Bheki Ndhlovu
  *
- * This class will implement the two methods from the NumberRangeSummerizer interface
+ * This class will implement the two methods from the NumberRangeSummerizer interface.
  */
 public class NumberRangeSummarizerImplementation
         implements NumberRangeSummarizer{
