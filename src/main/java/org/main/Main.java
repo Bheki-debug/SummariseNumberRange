@@ -1,4 +1,4 @@
-package org.example;
+package org.main;
 
 import numberrangesummarizer.NumberRangeSummarizerImplementation;
 
